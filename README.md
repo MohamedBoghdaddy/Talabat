@@ -1,5 +1,5 @@
 # Java-oop
-I do not think itS working xoxo.
-its a project I made in freshman year in collage.
-so basiclly I do not remember anything about it. 
+I do not think its working xoxo.
+its a project I made in my freshman year in collage.
+so basically I do not remember anything about it. 
 GOOD LUCK!
